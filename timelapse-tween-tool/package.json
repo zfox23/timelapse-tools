@@ -1,0 +1,17 @@
+{
+  "name": "timelapse-tween-tool",
+  "version": "1.0.0",
+  "description": "A tool used when your timelapse interval changes throughout your timelapse.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "author": "Zach Fox",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
